@@ -1,0 +1,2 @@
+C:\Users\lukas\Documents\codes\erastothenes-parallel-ish\WindowsPort\WindowsPort\x64\Debug\WindowsPort.vcxproj.AssemblyReference.cache
+C:\Users\lukas\Documents\codes\erastothenes-parallel-ish\WindowsPort\WindowsPort\x64\Debug\WindowsPort.vcxproj.SuggestedBindingRedirects.cache

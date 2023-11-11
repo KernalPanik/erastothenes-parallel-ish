@@ -1,0 +1,3 @@
+﻿  WindowsPort.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WindowsPort.vcxproj -> C:\Users\lukas\Documents\codes\erastothenes-parallel-ish\WindowsPort\x64\Debug\WindowsPort.exe
