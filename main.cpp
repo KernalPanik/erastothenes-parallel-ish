@@ -131,10 +131,12 @@ int main(int argc, char** argv) {
     std::vector<int> erast;
     if (parallel) {
         printf("\n======Running in Parallel!======\n");
+        printf("Computing for %d\n", n);
         erast = erastothenesParallel(n);
     }
     else {
         printf("\n======Running in Series!======\n");
+        printf("Computing for %d\n", n);
         erast = erastothenesSerial(n);
     }
     return 0;

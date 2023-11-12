@@ -21,10 +21,16 @@ for arg in sys.argv[1:]:
             n_value = 0
             real_time_value = 0
             next_line_is_time_line = False
-        if "Test For" in line:
+        if "Test For" in line or "Computing for" in line:
             n_value = line.split()[2]
         if "Multiples per thread" in line or "Running in Series" in line:
             next_line_is_time_line = True
+        if "TotalSeconds" in line:
+            real_time_value = float(line.split()[2])
+            data_to_be_plotted.append((int(n_value), real_time_value))
+            n_value = 0
+            real_time_value = 0
+            next_line_is_time_line = False
 
     plot_data.append((arg, data_to_be_plotted))
 
