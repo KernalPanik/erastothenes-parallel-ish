@@ -1,0 +1,75 @@
+Computing for 4
+TotalSeconds      : 4.3085358
+
+Computing for 8
+TotalSeconds      : 0.0665101
+
+Computing for 16
+TotalSeconds      : 0.0675735
+
+Computing for 32
+TotalSeconds      : 0.0679389
+
+Computing for 64
+TotalSeconds      : 0.0681726
+
+Computing for 128
+TotalSeconds      : 0.067401
+
+Computing for 256
+TotalSeconds      : 0.0680634
+
+Computing for 512
+TotalSeconds      : 0.0673117
+
+Computing for 1024
+TotalSeconds      : 0.0688091
+
+Computing for 2048
+TotalSeconds      : 0.0697493
+
+Computing for 4096
+TotalSeconds      : 0.0721385
+
+Computing for 8192
+TotalSeconds      : 0.0738451
+
+Computing for 16384
+TotalSeconds      : 0.0833946
+
+Computing for 32768
+TotalSeconds      : 0.1114384
+
+Computing for 65536
+TotalSeconds      : 0.1837676
+
+Computing for 131072
+TotalSeconds      : 0.3818585
+
+Computing for 262144
+TotalSeconds      : 0.9347123
+
+Computing for 524288
+TotalSeconds      : 2.4842805
+
+Computing for 1048576
+TotalSeconds      : 6.863816
+
+Computing for 2097152
+TotalSeconds      : 19.2011928
+
+Computing for 4194304
+TotalSeconds      : 54.1692256
+
+Computing for 8388608
+TotalSeconds      : 153.0156941
+
+Computing for 16777216
+TotalSeconds      : 436.139259
+
+Computing for 33554432
+TotalSeconds      : 1238.2711379
+
+Computing for 67108864
+TotalSeconds      : 3530.9963983
+

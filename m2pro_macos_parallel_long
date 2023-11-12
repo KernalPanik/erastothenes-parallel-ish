@@ -1,0 +1,215 @@
+Test For 2
+
+======Running in Parallel!======
+Max Multiple Pivot is: 1
+Multiples per thread: 1
+0.317
+<<<<DONE>>>>
+
+Test For 4
+
+======Running in Parallel!======
+Max Multiple Pivot is: 2
+Multiples per thread: 1
+0.004
+<<<<DONE>>>>
+
+Test For 8
+
+======Running in Parallel!======
+Max Multiple Pivot is: 2
+Multiples per thread: 1
+0.004
+<<<<DONE>>>>
+
+Test For 16
+
+======Running in Parallel!======
+Max Multiple Pivot is: 4
+Multiples per thread: 1
+0.002
+<<<<DONE>>>>
+
+Test For 32
+
+======Running in Parallel!======
+Max Multiple Pivot is: 5
+Multiples per thread: 1
+0.002
+<<<<DONE>>>>
+
+Test For 64
+
+======Running in Parallel!======
+Max Multiple Pivot is: 8
+Multiples per thread: 1
+0.002
+<<<<DONE>>>>
+
+Test For 128
+
+======Running in Parallel!======
+Max Multiple Pivot is: 11
+Multiples per thread: 1
+0.002
+<<<<DONE>>>>
+
+Test For 256
+
+======Running in Parallel!======
+Max Multiple Pivot is: 16
+Multiples per thread: 1
+0.002
+<<<<DONE>>>>
+
+Test For 512
+
+======Running in Parallel!======
+Max Multiple Pivot is: 22
+Multiples per thread: 1
+0.003
+<<<<DONE>>>>
+
+Test For 1024
+
+======Running in Parallel!======
+Max Multiple Pivot is: 32
+Multiples per thread: 1
+0.003
+<<<<DONE>>>>
+
+Test For 2048
+
+======Running in Parallel!======
+Max Multiple Pivot is: 45
+Multiples per thread: 1
+0.003
+<<<<DONE>>>>
+
+Test For 4096
+
+======Running in Parallel!======
+Max Multiple Pivot is: 64
+Multiples per thread: 1
+0.005
+<<<<DONE>>>>
+
+Test For 8192
+
+======Running in Parallel!======
+Max Multiple Pivot is: 90
+Multiples per thread: 1
+0.007
+<<<<DONE>>>>
+
+Test For 16384
+
+======Running in Parallel!======
+Max Multiple Pivot is: 128
+Multiples per thread: 1
+0.012
+<<<<DONE>>>>
+
+Test For 32768
+
+======Running in Parallel!======
+Max Multiple Pivot is: 181
+Multiples per thread: 1
+0.025
+<<<<DONE>>>>
+
+Test For 65536
+
+======Running in Parallel!======
+Max Multiple Pivot is: 256
+Multiples per thread: 1
+0.049
+<<<<DONE>>>>
+
+Test For 131072
+
+======Running in Parallel!======
+Max Multiple Pivot is: 362
+Multiples per thread: 1
+0.097
+<<<<DONE>>>>
+
+Test For 262144
+
+======Running in Parallel!======
+Max Multiple Pivot is: 512
+Multiples per thread: 1
+0.208
+<<<<DONE>>>>
+
+Test For 524288
+
+======Running in Parallel!======
+Max Multiple Pivot is: 724
+Multiples per thread: 1
+0.458
+<<<<DONE>>>>
+
+Test For 1048576
+
+======Running in Parallel!======
+Max Multiple Pivot is: 1024
+Multiples per thread: 1
+1.038
+<<<<DONE>>>>
+
+Test For 2097152
+
+======Running in Parallel!======
+Max Multiple Pivot is: 1448
+Multiples per thread: 1
+2.717
+<<<<DONE>>>>
+
+Test For 4194304
+
+======Running in Parallel!======
+Max Multiple Pivot is: 2048
+Multiples per thread: 1
+6.493
+<<<<DONE>>>>
+
+Test For 8388608
+
+======Running in Parallel!======
+Max Multiple Pivot is: 2896
+Multiples per thread: 1
+15.297
+<<<<DONE>>>>
+
+Test For 16777216
+
+======Running in Parallel!======
+Max Multiple Pivot is: 4096
+Multiples per thread: 4
+36.372
+<<<<DONE>>>>
+
+Test For 33554432
+
+======Running in Parallel!======
+Max Multiple Pivot is: 5792
+Multiples per thread: 4
+90.269
+<<<<DONE>>>>
+
+Test For 67108864
+
+======Running in Parallel!======
+Max Multiple Pivot is: 8192
+Multiples per thread: 4
+221.437
+<<<<DONE>>>>
+
+Test For 134217728
+
+======Running in Parallel!======
+Max Multiple Pivot is: 11585
+Multiples per thread: 4
+552.975
+<<<<DONE>>>>
